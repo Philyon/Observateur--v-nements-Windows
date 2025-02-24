@@ -1,6 +1,6 @@
 # Observateur événements - Windows
 
-Configuration de la vue personnalisée :
+## Configuration de la vue personnalisée
 
 Niveaux à surveiller
 Critique (1)
@@ -8,12 +8,12 @@ Erreur (2)
 Avertissement (3)
 Information (4) - Pour les démarrages/arrêts
 
-Sources d'événements à inclure
+## Sources d'événements à inclure
 
 DNS-Server-Service: Pour les opérations du serveur DNS
 DNS Client Events: Pour les événements côté client
 
-Événements critiques (ID principaux)
+## Événements critiques (ID principaux)
 
 2: Démarrage du serveur DNS
 4: Arrêt du serveur DNS
